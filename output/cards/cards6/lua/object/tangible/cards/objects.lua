@@ -1,0 +1,4 @@
+-- stepotest_01_00000000000000000
+object_tangible_cards_shared_stepotest_01_00000000000000000 = SharedTangibleObjectTemplate:new {clientTemplateFileName = "object/tangible/cards/shared_stepotest_01_00000000000000000.iff"}
+ObjectTemplates:addClientTemplate(object_tangible_cards_shared_stepotest_01_00000000000000000, "object/tangible/cards/shared_stepotest_01_00000000000000000.iff")
+
