@@ -1,0 +1,2 @@
+# example template
+key;text;key|text|key|text
